@@ -1,0 +1,12 @@
+@startgantt
+2020-09-05 to 2020-09-06 is closed
+2020-09-12 to 2020-09-13 is closed
+2020-09-19 to 2020-09-20 is closed
+2020-09-26 to 2020-09-27 is closed
+2020-10-03 to 2020-10-04 is closed
+
+Project starts the 2020-08-31
+[Phase 1] lasts 10 days
+Then [Phase 2] lasts 10 days
+Then [Phase 3] lasts 10 days
+@endgantt
